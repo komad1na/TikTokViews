@@ -1,11 +1,11 @@
-# TikTokViews
+# :eye: TikTokViews 
 Simple javascript bookmarklet to calculate approximately how many views all of your videos have
 
-## How it looks
+## :camera: How it looks
 
 ![Image](https://i.ibb.co/RDBrNC2/Screenshot-2022-01-12-173933.png)
 
-## How to make it work
+## :hammer_and_wrench: How to make it work
 
 Go to **tiktokviews.js** file copy whole content 
 
@@ -17,7 +17,7 @@ Go to any profile on tiktok **scroll down to load all videos** (MANDATORY) from 
 
 After execution you will see **APPROXIMATION** of all views profile has on all videos next to the **Likes** and **Followers** count
 
-## DISCLAIMER 
+## :warning: DISCLAIMER :warning:
 
 Script is only **approximately** calculates how many views your videos have. 
 
