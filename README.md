@@ -1,6 +1,10 @@
 # TikTokViews
 Simple javascript bookmarklet to calculate approximately how many views all of your videos have
 
+## How it looks
+
+![Image](https://i.ibb.co/RDBrNC2/Screenshot-2022-01-12-173933.png)
+
 ## How to make it work
 
 Go to **tiktokviews.js** file copy whole content 
@@ -18,5 +22,5 @@ After execution you will see **APPROXIMATION** of all views profile has on all v
 Script is only **approximately** calculates how many views your videos have. 
 
 Example: If you have 1.2M views on one video it will be 1,200,000 and anything in between will be discarded since values are not visible. 
-So your video can have 1,289,000 but 89,000 will nit be calculated it will be added once you reach 1,300,000 views
+So your video can have 1,289,000 but 89,000 will not be calculated, it will be added once you reach 1,300,000 views
 
